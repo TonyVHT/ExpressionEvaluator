@@ -4,7 +4,7 @@ I created this expression evaluator a year ago during a free hour as a personal 
 I decided to shared this project because I think it can be useful for students like me who are learning about expression evaluation and parsing. Or they just want to create a calculator that can evaluate mathematical expressions and not only accept numbers as input.
 
 ## How to test
-I add a main function with an string array
+I add a main function with a string array
 
 ---
 
